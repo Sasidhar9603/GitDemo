@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    public void Phase2() {
+    	System.out.println("The method added by Developer 2");
+    }
 }
